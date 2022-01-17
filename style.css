@@ -1,0 +1,36 @@
+.box1 .btn {
+    background-color: lightcoral;
+}
+
+.box2 .btn {
+    background-color: lightgreen;
+}
+
+.box3 .btn {
+    background-color: lightblue;
+}
+
+.box4 .btn {
+    background-color: lightsalmon;
+}
+
+.box1 .rectangle {
+    border: 1px solid salmon;
+}
+
+.box2 .rectangle {
+    border: 1px solid lightgreen;
+}
+
+.box3 .rectangle {
+    border: 1px solid lightblue;
+}
+
+.box4 .rectangle {
+    border: 1px solid lightsalmon;
+}
+
+.rectangle {
+    padding: 1em;
+    margin-top: -1.25em;
+}
