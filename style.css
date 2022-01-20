@@ -1,3 +1,7 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .box1 .btn {
     background-color: lightcoral;
 }
