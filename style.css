@@ -1,4 +1,4 @@
-*{
+* {
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -37,4 +37,8 @@
 .rectangle {
     padding: 1em;
     margin-top: -1.25em;
+}
+
+.container{
+    margin-bottom: 100px;
 }
