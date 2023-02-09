@@ -41,8 +41,9 @@
     margin-top: -1.25em;
 }
 
-.container {
-    margin-bottom: 100px;
+.header{
+    background-color: #295AA2;
+    color: white;
 }
 
 .subheader {
