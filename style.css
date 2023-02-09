@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 * {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Inter', Times, serif;
 }
 
 .box1 .btn {
@@ -39,6 +41,19 @@
     margin-top: -1.25em;
 }
 
-.container{
+.container {
     margin-bottom: 100px;
+}
+
+.subheader {
+    background-color: #8395C8;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+}
+
+.footer {
+    background-color: #F0F0F0;
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
