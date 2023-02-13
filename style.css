@@ -44,6 +44,16 @@
 .header{
     background-color: #295AA2;
     color: white;
+    flex-wrap: nowrap;
+}
+
+.header .container{
+    flex-direction: column;
+    text-align: start;
+}
+
+.header .container span{
+    width: 100%;
 }
 
 .subheader {
